@@ -41,5 +41,6 @@ React with Tailwind CSS.
 
 MIT
 
+## Example
 
 ![](example.png)
