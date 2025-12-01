@@ -40,3 +40,5 @@ React with Tailwind CSS.
 ## License
 
 MIT
+
+![](example.png)
